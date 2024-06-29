@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mada-immo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mada-immo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\conteneur.css",
+      "PackagePath": "staticwebassets\\css\\conteneur.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\content.css",
+      "PackagePath": "staticwebassets\\css\\content.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\formulaire.css",
+      "PackagePath": "staticwebassets\\css\\formulaire.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\list.css",
+      "PackagePath": "staticwebassets\\css\\list.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\menulist.css",
+      "PackagePath": "staticwebassets\\css\\menulist.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\mixing.css",
+      "PackagePath": "staticwebassets\\css\\mixing.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\popop.css",
+      "PackagePath": "staticwebassets\\css\\popop.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\sidebar.css",
+      "PackagePath": "staticwebassets\\css\\sidebar.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\css\\styleComponent.css",
+      "PackagePath": "staticwebassets\\css\\styleComponent.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\1858d001-8111-4217-b485-5c46a9d6df3e_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg",
+      "PackagePath": "staticwebassets\\img\\1858d001-8111-4217-b485-5c46a9d6df3e_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\56baaf58-bdf7-472a-a895-5530c18e6260_156c33c343646d971dd483d7b068783e.jpg",
+      "PackagePath": "staticwebassets\\img\\56baaf58-bdf7-472a-a895-5530c18e6260_156c33c343646d971dd483d7b068783e.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\8b160dbb-658e-4525-a577-7896cb5cee30_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg",
+      "PackagePath": "staticwebassets\\img\\8b160dbb-658e-4525-a577-7896cb5cee30_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\8da6c1c1-854a-4312-8f9c-7ee8f77d8b33_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg",
+      "PackagePath": "staticwebassets\\img\\8da6c1c1-854a-4312-8f9c-7ee8f77d8b33_depositphotos_164989654-stock-photo-glazed-duck-fillet.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\food.jpg",
+      "PackagePath": "staticwebassets\\img\\food.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\logo.xd",
+      "PackagePath": "staticwebassets\\img\\logo.xd"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\logoEval.png",
+      "PackagePath": "staticwebassets\\img\\logoEval.png"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\logoImageMaison.jpg",
+      "PackagePath": "staticwebassets\\img\\logoImageMaison.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\logoRun.jpg",
+      "PackagePath": "staticwebassets\\img\\logoRun.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\img\\medaille.jpg",
+      "PackagePath": "staticwebassets\\img\\medaille.jpg"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fianarana\\s6\\danny\\mada-immo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mada-immo.props",
+      "PackagePath": "build\\mada-immo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mada-immo.props",
+      "PackagePath": "buildMultiTargeting\\mada-immo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mada-immo.props",
+      "PackagePath": "buildTransitive\\mada-immo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mada-immo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
