@@ -47,4 +47,12 @@ public class ProprietaireRepository
             _context.SaveChanges();
         }
     }
+
+    public String VerificationLoginProprietaire(string numero){
+        var proprietaire = _context._proprietaire.FirstOrDefault(m => m.Tel == numero);
+        if (proprietaire == null) {throw new ArgumentException("verifier votre numero !!");}
+#pragma warning disable CS8603 // Existence possible d'un retour de référence null.
+        return proprietaire.Id;
+#pragma warning restore CS8603 // Existence possible d'un retour de référence null.
+    }
 }
