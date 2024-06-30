@@ -9,43 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = mada_immo
 build_property.RootNamespace = mada_immo
-build_property.ProjectDir = D:\Fianarana\s6\danny\mada-immo\
+build_property.ProjectDir = D:\mada-immo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Fianarana\s6\danny\mada-immo
+build_property.MSBuildProjectDirectory = D:\mada-immo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Home/Index.cshtml]
+[D:/mada-immo/Views/Bien/ListeBien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmllblxMaXN0ZUJpZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mada-immo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Home/Privacy.cshtml]
+[D:/mada-immo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Login/LoginPageAdmin.cshtml]
+[D:/mada-immo/Views/Login/LoginPageAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5QYWdlQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Shared/Error.cshtml]
+[D:/mada-immo/Views/Login/LoginPageClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5QYWdlQ2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mada-immo/Views/Login/LoginPageProprietaire.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5QYWdlUHJvcHJpZXRhaXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mada-immo/Views/Loyer/ListeLoyer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG95ZXJcTGlzdGVMb3llci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/mada-immo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/mada-immo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/_ViewImports.cshtml]
+[D:/mada-immo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/_ViewStart.cshtml]
+[D:/mada-immo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Fianarana/s6/danny/mada-immo/Views/Shared/_Layout.cshtml]
+[D:/mada-immo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cg33xe1ysi

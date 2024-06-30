@@ -47,4 +47,11 @@ public class ClientRepository
             _context.SaveChanges();
         }
     }
+    public String VerificationLoginClient(string email){
+        var client = _context._client.FirstOrDefault(m => m.Email == email);
+        if (client == null) {throw new ArgumentException("verifier votre mail !!");}
+#pragma warning disable CS8603 // Existence possible d'un retour de référence null.
+        return client.Id;
+#pragma warning restore CS8603 // Existence possible d'un retour de référence null.
+    }
 }

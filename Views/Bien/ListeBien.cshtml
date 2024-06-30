@@ -1,0 +1,20 @@
+<html>
+    <table>
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>Nom</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var bien in ViewBag.listeBien){
+                <tr>
+                    <td>@bien.Id</td>
+                    <td>@bien.Nom</td>
+                    @* <td>@bien.Type</td> *@
+                </tr>
+            }
+        </tbody>
+    </table>
+</html>

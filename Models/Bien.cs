@@ -18,8 +18,8 @@ public class Bien
     [Column("loyer")]
     public double Loyer { get; set; }
 
-    [Column("photos")]
-    public string? Photos { get; set; }
+    // [Column("photos")]
+    // public string? Photos { get; set; }
 
     [Column("id_proprietaire")]
     public string? IdProprietaire { get; set; }

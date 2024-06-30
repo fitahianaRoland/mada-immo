@@ -17,6 +17,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>{
 
 // add scop 
 builder.Services.AddScoped<AdminRepository>();
+builder.Services.AddScoped<ProprietaireRepository>();
+builder.Services.AddScoped<ClientRepository>();
+builder.Services.AddScoped<BienRepository>();
 
 var app = builder.Build();
 AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);

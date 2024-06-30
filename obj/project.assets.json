@@ -8855,19 +8855,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ranai\\.nuget\\packages\\": {}
+    "C:\\Users\\danny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fianarana\\s6\\danny\\mada-immo\\mada-immo.csproj",
+      "projectUniqueName": "D:\\mada-immo\\mada-immo.csproj",
       "projectName": "mada-immo",
-      "projectPath": "D:\\Fianarana\\s6\\danny\\mada-immo\\mada-immo.csproj",
-      "packagesPath": "C:\\Users\\ranai\\.nuget\\packages\\",
-      "outputPath": "D:\\Fianarana\\s6\\danny\\mada-immo\\obj\\",
+      "projectPath": "D:\\mada-immo\\mada-immo.csproj",
+      "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
+      "outputPath": "D:\\mada-immo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ranai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8958,7 +8958,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mada-immo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+349ed3f3d2832ee7b70dee1e44e6e8ef34f12399")]
 [assembly: System.Reflection.AssemblyProductAttribute("mada-immo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mada-immo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
